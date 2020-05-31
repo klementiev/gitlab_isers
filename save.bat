@@ -1,2 +1,1 @@
-OneScript\oscript.bat %~dp0gitlab_users_save.os %*
-pause
+%~dp0OneScript\oscript.bat %~dp0gitlab_users_save.os %*
