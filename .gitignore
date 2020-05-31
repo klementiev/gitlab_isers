@@ -1,0 +1,5 @@
+/.vscode/
+/group-id
+/private-token
+data*.yaml
+data*.json
